@@ -1,6 +1,11 @@
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+
+## Overview
+
+this project is about cloning hulu site using Nuxt Js 3 with Tailwind css with SSR (Server Side Rendering) with fake data. you can check [Live demo](https://631354e11693a917b5058e67--jovial-naiad-5d761e.netlify.app/).
 
 ## Setup
 
