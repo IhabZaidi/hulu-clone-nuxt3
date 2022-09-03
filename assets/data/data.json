@@ -1,0 +1,68 @@
+{
+    "anime": [
+        {
+            "id": 1,
+            "anime_title": "Another",
+            "anime_image": "assets/images/another.jpg",
+            "anime_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "anime_date": "21-01-2018",
+            "anime_likes": "8712"
+        },
+        {
+            "id": 2,
+            "anime_title": "Attack On Titan",
+            "anime_image": "assets/images/attack_on_titan.jpg",
+            "anime_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "anime_date": "28-06-2015",
+            "anime_likes": "9442"
+        },
+        {
+            "id": 3,
+            "anime_title": "Buku No Hero",
+            "anime_image": "assets/images/buku_no_hero.jpg",
+            "anime_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "anime_date": "04-05-2019",
+            "anime_likes": "1242"
+        },
+        {
+            "id": 4,
+            "anime_title": "Haikyuu",
+            "anime_image": "assets/images/haikyuu.jpg",
+            "anime_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "anime_date": "28-06-2018",
+            "anime_likes": "542"
+        },
+        {
+            "id": 5,
+            "anime_title": "Hunter X Hunter",
+            "anime_image": "assets/images/hunter_x_hunter.jpeg",
+            "anime_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "anime_date": "28-03-1990",
+            "anime_likes": "1452"
+        },
+        {
+            "id": 6,
+            "anime_title": "Jujutsu Kaisen",
+            "anime_image": "assets/images/jujutsu_kaisen.png",
+            "anime_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "anime_date": "28-06-2021",
+            "anime_likes": "748"
+        },
+        {
+            "id": 7,
+            "anime_title": "Kijin Gentoushou",
+            "anime_image": "assets/images/kijin_gentoushou.jpg",
+            "anime_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "anime_date": "04-06-2017",
+            "anime_likes": "327"
+        },
+        {
+            "id": 8,
+            "anime_title": "Kimetsu No Yaiba",
+            "anime_image": "assets/images/kimetsu_no_yaiba.jpg",
+            "anime_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "anime_date": "10-11-2019",
+            "anime_likes": "9247"
+        }
+    ]
+}
