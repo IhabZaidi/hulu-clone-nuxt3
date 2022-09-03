@@ -8,5 +8,4 @@
 
 <script setup>
 const {data: myAnimeList} = useFetch("/api/myData");
-console.log(myAnimeList);
 </script>
