@@ -1,6 +1,6 @@
 <template>
   <div
-    className="flex flex-col sm:flex-row m-5 justify-between items-center bg-[#06202A]"
+    className="flex flex-col sm:flex-row mx-8 pt-8 justify-between items-center bg-[#06202A]"
   >
     <div className="flex flex-grow justify-evenly max-w-2xl">
       <header-item />
